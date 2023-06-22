@@ -1,4 +1,32 @@
 h1{
- background-color: mediumpurple;
- text-align: center;
+
+    text-align: center;
+}
+li{
+    text-align: center;
+    font-size:large;
+    background-color: rgb(252, 134, 193);
+}
+h2{
+    text-align: center;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
+imagem smashbox.png{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
+p{
+    font-size: 30px;
+}
+.p1{
+    font-size: 18px;
+}
+.p2{
+    font-size: 25px;
+}
+.li1{
+    display: inline-block;
 }
