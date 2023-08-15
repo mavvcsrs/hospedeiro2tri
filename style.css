@@ -18,18 +18,6 @@ imagem smashbox.png{
     height: 24px;
     display: inline-block;
 }
-p{
-    font-size: 30px;
-}
-.p1{
-    font-size: 18px;
-}
-.p2{
-    font-size: 25px;
-}
 .smash{
     width:30%
-}
-.li1{
-    display: inline-block;
 }
